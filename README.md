@@ -90,9 +90,9 @@ To explain the machine learning models and libraries used in your project, you c
 ## Output Images
 
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
-    <img src="https://github.com/user-attachments/assets/c67ffb62-cb0b-4038-8104-1b43668a9e6e" alt="Image 1" style="width: 33%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/15e75b8b-579c-45ce-bedb-a08d0e7991d7" alt="Image 2" style="width: 33%; height: auto;">
-    <img src="https://github.com/user-attachments/assets/fdeb2313-7fa3-40ea-b82d-6c4861621bb8" alt="Image 3" style="width: 33%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/c67ffb62-cb0b-4038-8104-1b43668a9e6e" alt="Image 1" style="width: 31%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/15e75b8b-579c-45ce-bedb-a08d0e7991d7" alt="Image 2" style="width: 31%; height: auto;">
+    <img src="https://github.com/user-attachments/assets/fdeb2313-7fa3-40ea-b82d-6c4861621bb8" alt="Image 3" style="width: 31%; height: auto;">
 </div>
 
 ## Conclusion
@@ -107,7 +107,7 @@ In this project, we tackled the challenge of extracting entity values from image
   <tr align="left">
    <td>
 
-   ## Meghanand Gejjela
+   #### Meghanand Gejjela
    <p align="center">
    <img src = "https://raw.githubusercontent.com/Megh-Zyke/Histify/main/images/meghs.jpg"  height="120" alt="Meghanand">
    </p>
@@ -122,7 +122,7 @@ In this project, we tackled the challenge of extracting entity values from image
     <td>
 
 
-   ## Anirudh R Kavle
+   #### Anirudh R Kavle
    <p align="center">
    <img src = "https://raw.githubusercontent.com/Megh-Zyke/Histify/main/images/Anirudh.jpg"  height="120" alt="Anirudh">
    </p>
@@ -136,7 +136,7 @@ In this project, we tackled the challenge of extracting entity values from image
     </td>
     <td>
       
-   ## Vidhyuth Kasturirangan 
+   #### Vidhyuth Kasturirangan 
    <p align="center">
    
    <img src = "https://media.licdn.com/dms/image/v2/D5603AQGVXkt5kDr3Xg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1690130175022?e=1732147200&v=beta&t=WJQxkGm134wScHHkr4f0ZNkFMRMCCnCKeM_F7d8e7qs"  height="120" alt="Vidhyuth">
