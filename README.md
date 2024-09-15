@@ -11,7 +11,7 @@ wattage, dimensions, and many more, which are critical for digital stores.
 ## Data Description:
 The dataset consists of the following columns:
 1. index: A unique identifier (ID) for the data sample.
-2. image-link: Public URL where the product image is available for download. Example link - https://m.media-amazon.com/images/l/71XfHPR36-L.jpg To
+2. image-link: Public URL where the product image is available for download. Example link - https://m.media-amazon.com/images/I/612mrlqiI4L.jpg To
 download images, use the download_images function from src/utils. py. See sample code in src/test. ipynb.
 3. group_id: Category code of the product.
 4. entity_name: Product entity name. For example, "item_weight".
